@@ -1,0 +1,45 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(113, 86, 61);
+    background-color: #e0d3c0;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+a:visited {
+    color: rgba(158, 124, 98, 0.392);
+}
+
+.name {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.italicize {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.bigbold {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
